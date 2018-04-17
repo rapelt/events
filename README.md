@@ -1,6 +1,6 @@
 # events
 
-Start the mock server
+## Start the mock server
  
  npm install json-server -g
  
@@ -9,7 +9,7 @@ Start the mock server
  json-server --watch events.json
  
  
- Start the UI
+ ## Start the UI
  
  cd into the training-events folder
  
