@@ -6,7 +6,7 @@
  npm install json-server -g
  ```
  
- cd into the mock-json folder
+ Change directory into the mock-json folder
 
  ```bash
  json-server --watch events.json
@@ -14,10 +14,14 @@
  
  ## Start the UI
  
- cd into the training-events folder
+ Change directory into the training-events folder
 
  ```bash
  npm install
  
  npm start
 ```
+
+The project will run on
+
+http://localhost:4200/
