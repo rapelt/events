@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    /deep/ {
+        .event {
+            background-color: darkgray;
+        }
+    }
+}
+
+.events {
+    display: flex;
+    justify-content: space-around;
+}

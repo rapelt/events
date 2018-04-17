@@ -1,0 +1,18 @@
+<div class="event-details">
+  <div class="row">
+    <div class="col-md-6 left-details">
+      <div class="detail">
+        <h2>{{event.title}}</h2>
+        <p>Date: {{event.date | date:'d MMM yy'}}</p>
+        <p>Location: {{event.location}}</p>
+        <p>Available seats:{{event.available_seats}}</p>
+      </div>
+      <a [routerLink]="'/'" class="btn btn-info">Back</a>
+    </div>
+    <div class="col-md-6">
+      <img src="{{event.image_url}}">
+    </div>
+  </div>
+
+</div>
+

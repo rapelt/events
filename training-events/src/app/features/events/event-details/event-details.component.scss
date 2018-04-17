@@ -1,0 +1,23 @@
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+
+a {
+    text-align: center;
+}
+
+.left-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: end;
+
+}
+
+.event-details {
+    display: flex;
+    justify-content: center;
+}

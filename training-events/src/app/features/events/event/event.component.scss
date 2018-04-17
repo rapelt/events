@@ -1,0 +1,30 @@
+$event-height: 120px;
+
+.event {
+    display: flex;
+    margin: 0 10px 10px 10px;
+    background-color: lightgrey;
+    height: $event-height;
+    width: 600px;
+
+    .event-details {
+        margin-left: 20px;
+        margin-top: 8px;
+
+        .title {
+            font-weight: 700;
+            font-size: 16px;
+        }
+    }
+
+    .img-crop img {
+        height: 100%;
+        background-color: white;
+    }
+
+    .img-crop {
+        width: $event-height;
+        height: $event-height;
+        overflow: hidden;
+    }
+}

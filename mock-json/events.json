@@ -1,0 +1,122 @@
+{ "events": [
+  {
+    "title": "Puppy School",
+    "image_url": "https://www.codeproject.com/KB/GDI-plus/ImageProcessing2/img.jpg",
+    "date": "2018-04-18T07:00:00.416Z",
+    "location": "Brisbane",
+    "available_seats": "13"
+  },
+  {
+    "title": "Become a vet nurse",
+    "image_url": "https://www.jqueryscript.net/images/Simplest-Responsive-jQuery-Image-Lightbox-Plugin-simple-lightbox.jpg",
+    "date": "2018-04-14T07:00:00.416Z",
+    "location": "Logan",
+    "available_seats": "16"
+  },
+  {
+    "title": "Lepidopterologist",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHFKhELNP-ZNAk0UatESts0p4tYyyGPI8KzXwEyWk5R5yfFpa",
+    "date": "2018-04-16T07:00:00.416Z",
+    "location": "Melbourne",
+
+    "available_seats": "71"
+  },
+  {
+    "title": "Work place, health and safety",
+    "image_url": "https://www.elevatedtraining.com.au/wp-content/uploads/safety_first.png",
+    "date": "2018-04-19T07:00:00.416Z",
+    "location": "Sydney",
+    "available_seats": "9"
+  },
+  {
+    "title": "Train the trainers",
+    "image_url": "http://www.nitelpars.com/UserFile/Thumbnails/16290476_b025_4401_977f_f1702584438b_100x100_p_.jpg",
+    "date": "2018-04-20T07:00:00.416Z",
+    "location": "Logan",
+    "available_seats": "103"
+  },
+  {
+    "title": "Swim Club",
+    "image_url": "https://www.istockphoto.com/resources/images/PhotoFTLP/img_68460491.jpg",
+    "date": "2018-04-21T07:00:00.416Z",
+    "location": "Brisbane",
+    "available_seats": "14"
+  },
+  {
+    "title": "Cat Nap Group",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxut4j98oB6CBzDKoLjvUy-mSlXvdOAprM3-vAB5uHrR2I81pz",
+    "date": "2018-04-22T07:00:00.416Z",
+    "location": "Sydney",
+    "available_seats": "16"
+  },
+  {
+    "title": "Let's Find Wally",
+    "image_url": "http://d1vzko4h6qahek.cloudfront.net/images/2/books/large/ST2711.jpg",
+    "date": "2018-05-01T07:00:00.416Z",
+    "location": "Logan",
+    "available_seats": "29"
+  },
+  {
+    "title": "Self Defence Classes",
+    "image_url": "http://www.saomartinho.sc.gov.br/uploads/670/imagens/1827027.jpg",
+    "date": "2018-05-03T07:00:00.416Z",
+    "location": "Brisbane",
+    "available_seats": "11"
+  },
+  {
+    "title": "The Book Club",
+    "image_url": "https://cfvod.kaltura.com/p/1034971/sp/103497100/thumbnail/entry_id/1_mthg0c9r/version/100011/width/640/height/360",
+    "date": "2018-04-15T07:00:00.416Z",
+    "location": "Brisbane",
+    "available_seats": "18"
+  },
+  {
+    "title": "Chef Training",
+    "image_url": "http://www.novotelmanlypacific.com.au/d/sydneymanlypacific/media/Offers/__thumbs_600_500_crop/shutterstock_393676441.web.jpg",
+    "date": "2018-03-13T07:00:00.416Z",
+    "location": "Sydney",
+    "available_seats": "26"
+  },
+  {
+    "title": "Learn how to knit",
+    "image_url": "http://www.l-informatique.com/wp-content/uploads/2017/11/woman-knitting-1.jpg",
+    "date": "2018-05-08T07:00:00.416Z",
+    "location": "Brisbane",
+    "available_seats": "24"
+  },
+  {
+    "title": "Learn to be cookie monster",
+    "image_url": "https://www.handletheheat.com/wp-content/uploads/2018/02/BAKERY-STYLE-CHOCOLATE-CHIP-COOKIES-9-768x768.jpg",
+    "date": "2018-04-19T07:00:00.416Z",
+    "location": "Melbourne",
+    "available_seats": "49"
+  },
+  {
+    "title": "YOW!",
+    "image_url": "https://pbs.twimg.com/profile_images/852431064618250240/P7sDEYKH_400x400.jpg",
+    "date": "2018-04-28T07:00:00.416Z",
+    "location": "Sydney",
+    "available_seats": "31"
+  },
+  {
+    "title": "DDD Conference",
+    "image_url": "http://www.seafoamsolutions.com/images/ddd.bmp",
+    "date": "2018-04-30T07:00:00.416Z",
+    "location": "Logan",
+    "available_seats": "57"
+  },
+  {
+    "title": "Google Analytics Training",
+    "image_url": "https://www.shounakgupte.com/wp-content/uploads/2017/03/logo_lockup_analytics_icon_vertical_black_2x.png",
+    "date": "2018-05-12T07:00:00.416Z",
+    "location": "Brisbane",
+    "available_seats": "24"
+  },
+  {
+    "title": "Google Tag Manager Training",
+    "image_url": "https://teachtofishdigital.com/wp-content/uploads/2016/12/tagmanager_email.png",
+    "date": "2018-04-19T07:00:00.416Z",
+    "location": "Logan",
+    "available_seats": "24"
+  }
+]}

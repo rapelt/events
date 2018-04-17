@@ -1,0 +1,7 @@
+<div class="events">
+  <div>
+    <a *ngFor="let event of events | sortedByDate | limit:5" [routerLink]="['/event', event]">
+      <app-event [event]="event"></app-event>
+    </a>
+  </div>
+</div>
